@@ -59,7 +59,7 @@ color:#ff3c00;
 
 height:400px;
 
-background-image:url("../img/background.jpg");
+background-image:url("../img/background");
 
 background-size:cover;
 background-position:center;
@@ -85,7 +85,7 @@ margin:10px 0 20px;
 
 }
 
-/* BOTÃO */
+/* BOTÃƒO */
 
 .botao{
 
@@ -103,7 +103,7 @@ font-size:18px;
 
 }
 
-/* SERVIÇOS */
+/* SERVIÃ‡OS */
 
 .servicos{
 
@@ -146,7 +146,7 @@ margin-bottom:15px;
 
 }
 
-/* RODAPÉ */
+/* RODAPÃ‰ */
 
 footer{
 
